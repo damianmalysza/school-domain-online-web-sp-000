@@ -22,6 +22,8 @@ class School
 
   def sort
     sorted_roster = {}
-    @roster.each 
+    @roster.each do |k,v|
+
+    end
   end
 end
