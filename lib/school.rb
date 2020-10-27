@@ -26,4 +26,5 @@ class School
       sorted_roster[grade] = students.sort
     end
     sorted_roster
+  end
 end
