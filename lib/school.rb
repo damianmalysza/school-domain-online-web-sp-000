@@ -21,6 +21,7 @@ class School
   end
 
   def sort
-    sorted_hash = {}
+    sorted_roster = {}
+    @roster.each 
   end
 end
